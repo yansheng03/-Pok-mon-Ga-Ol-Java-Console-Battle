@@ -1,0 +1,7 @@
+: 22000
+1: 8200
+blank: 0
+william: 6000
+yansheng: 0
+ys: 9700
+L: 11100
